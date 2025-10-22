@@ -1,4 +1,4 @@
-# 🚀 FRANCISCO: Desarrollador Multiplataforma (Grado Superior DAM)
+# 🚀 FRAN: Desarrollador Multiplataforma (Grado Superior DAM)
 
 ![Insignia de DAM](https://img.shields.io/badge/Grado%20Superior-DAM-4CAF50) 
 ![Insignia de Java](https://img.shields.io/badge/Lenguaje%20Principal-Java-orange)
@@ -27,9 +27,3 @@ Mi pasión se centra en la construcción de **soluciones robustas y escalables**
 * **Control de Versiones:** **Git** y **GitHub** (Flujo de trabajo habitual con *branches*).
 * **Entornos de Desarrollo:** IntelliJ IDEA, VS Code.
 * **Metodología:** Introducción a **Scrum** y gestión de tareas con Trello/Jira.
-
----
-
-## 📂 Portafolio de Proyectos Destacados
-
-### 1. [Título del Proyecto de
